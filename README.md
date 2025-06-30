@@ -1,4 +1,4 @@
-# Integrated Multidomain Temporal Contrastive Domain Generalization
+# IMTCDG:Integrated Multidomain Temporal Contrastive Domain Generalization
 
 PyTorch implementation for "A novel integrated multidomain temporal contrastive domain generalization learning framework for time-series quality prediction of batch machining". 
 
